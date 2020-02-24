@@ -3,6 +3,8 @@ title: Home
 sections:
   - component: HeroBlock
     content: >-
+
+
       Whether you're bringing a new product to market or redesigning your
       website, we'll make sure it's done right — the *first* time.
     section_id: hero
