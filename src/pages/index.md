@@ -63,13 +63,14 @@ sections:
     type: servicesblock
   - component: TestimonialsBlock
     section_id: testimonials
-    subtitle: An optional subtitle of the section
+    subtitle: Read what our clients have to say about us.
     testimonialslist:
-      - author: John Doe
-        avatar: images/john_doe.jpg
+      - author: Alex Berman
+        avatar: /images/0.jpg
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          Rinaldo MEDIA contrasts the notion that web design is a risky venture
+          and that it can't be measured from a branding and direct conversion
+          standpoint. One conversation with them will make their talents clear.
       - author: Jane Roe
         avatar: images/jane_roe.jpg
         content: >-
