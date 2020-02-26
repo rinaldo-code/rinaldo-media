@@ -71,12 +71,6 @@ sections:
           Rinaldo MEDIA contrasts the notion that web design is a risky venture
           and that it can't be measured from a branding and direct conversion
           standpoint. One conversation with them will make their talents clear.
-      - author: Jane Roe
-        avatar: images/jane_roe.jpg
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
     title: Testimonials
     type: testimonialsblock
   - actions:
