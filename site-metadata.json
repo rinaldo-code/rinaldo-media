@@ -3,7 +3,8 @@
   "color_scheme": "light",
   "accent_color": "blue",
   "header": {
-    "title": "Exto",
+    "title": "Rinaldo MEDIA",
+    "logo_img": "/images/tamni-transp-zadnji-kraci.png",
     "has_nav": true
   },
   "footer": {
