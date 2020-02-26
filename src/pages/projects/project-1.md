@@ -3,7 +3,7 @@ title: Polpo Group
 subtitle: ''
 date: 2020-01-31T23:00:00.000Z
 thumb_img_path: /images/untitled-design.png
-content_img_path: images/1.jpg
+content_img_path: /images/untitled-design.png
 template: project
 ---
 
