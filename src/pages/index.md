@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Rinaldo MEDIA - Web Design and Development Agency
 sections:
   - component: HeroBlock
     content: |
