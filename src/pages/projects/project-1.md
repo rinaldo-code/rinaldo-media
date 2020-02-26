@@ -1,7 +1,7 @@
 ---
-title: Project Title 1
-subtitle: Optional Project Subtitle
-date: '2019-05-10'
+title: Polpo Group
+subtitle: ''
+date: 2020-01-31T23:00:00.000Z
 thumb_img_path: images/1_thumb.jpg
 content_img_path: images/1.jpg
 template: project
