@@ -7,7 +7,7 @@ sections:
     title: Creating better human experiences through exceptional web design
     type: heroblock
   - component: PortfolioBlock
-    layout_style: tiles
+    layout_style: mosaic
     num_projects_displayed: 6
     section_id: latest-projects
     subtitle: ''
