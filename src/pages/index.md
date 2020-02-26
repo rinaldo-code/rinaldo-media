@@ -34,6 +34,7 @@ sections:
     title: What We Do
     type: servicesblock
   - component: HeroBlock
+    content: '![]()'
     title: Helping our clients stand out by creating exceptional digital experiences
     type: heroblock
   - component: ServicesBlock
