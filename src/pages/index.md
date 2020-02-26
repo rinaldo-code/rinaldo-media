@@ -35,6 +35,9 @@ sections:
     subtitle: We’re a creative partner offering only what we do best.
     title: What We Do
     type: servicesblock
+  - component: HeroBlock
+    title: Helping our clients stand out by creating exceptional digital experiences
+    type: heroblock
   - component: ServicesBlock
     section_id: howwework
     serviceslist:
