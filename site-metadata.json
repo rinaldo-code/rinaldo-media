@@ -1,5 +1,5 @@
 {
-  "title": "Stackbit Exto Theme",
+  "title": "Rinaldo MEDIA - Web Design and Development Agency",
   "color_scheme": "light",
   "accent_color": "pink",
   "header": {
@@ -8,7 +8,7 @@
     "has_nav": true
   },
   "footer": {
-    "content": "&copy; Rinaldo MEDIA. All rights reserved.",
+    "content": "&copy; Rinaldo MEDIA 2020. All rights reserved.",
     "links": [],
     "has_social": true
   }
