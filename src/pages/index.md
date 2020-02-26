@@ -2,18 +2,15 @@
 title: Home
 sections:
   - component: HeroBlock
-    content: |-
-
-
-      Creating better human experiences through exceptional web design
+    content: We design & build websites that convert visitors into paying customers
     section_id: hero
-    title: We design & build websites that convert visitors into paying customers
+    title: Creating better human experiences through exceptional web design
     type: heroblock
   - component: PortfolioBlock
-    layout_style: mosaic
+    layout_style: tiles
     num_projects_displayed: 6
     section_id: latest-projects
-    subtitle: Check out our work
+    subtitle: Check out our work.
     title: Recent Work
     type: portfolioblock
     view_all_text: View All
