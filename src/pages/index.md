@@ -10,7 +10,7 @@ sections:
     layout_style: tiles
     num_projects_displayed: 6
     section_id: latest-projects
-    subtitle: Check out our work.
+    subtitle: ''
     title: Recent Work
     type: portfolioblock
     view_all_text: View All
