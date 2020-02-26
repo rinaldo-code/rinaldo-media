@@ -2,22 +2,11 @@
 title: Home
 sections:
   - component: HeroBlock
-    content: >2-
+    content: |
 
-              
-
-
-
-
-
-
-
-
-
-      Whether you're bringing a new product to market or redesigning your
-      website, we'll make sure it's done right — the *first* time.
+      We design & build websites that convert visitors into paying customers
     section_id: hero
-    title: We design & build websites that convert visitors into paying customers.
+    title: Creating better human experiences through exceptional web design
     type: heroblock
   - component: PortfolioBlock
     layout_style: mosaic
