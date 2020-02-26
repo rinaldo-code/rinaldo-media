@@ -76,6 +76,8 @@ Our full-stack development team knows how to code intuitive, native applications
 * Backend development
 * API integration
 
+![](/images/10.jpg)
+
 ### How It Works
 
 To kick things off, we use a fast paces, user centric, and facilitated framework that defines and prioritizes user needs, creates user journeys, surfaces actionable insights, makes strategic recommendations and produces tangible results that will be deployed on the business website.
@@ -90,7 +92,9 @@ The result?
 
 Effective, beautiful and beloved brands.
 
-
+> Stay committed to your decisions, but stay flexible in your approach.
+>
+> \-Tony Robbins
 
 ### Our Approach
 
