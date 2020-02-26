@@ -1,10 +1,10 @@
 {
   "title": "Stackbit Exto Theme",
   "color_scheme": "light",
-  "accent_color": "blue",
+  "accent_color": "pink",
   "header": {
     "title": "Rinaldo MEDIA",
-    "logo_img": "/images/tamni-transp-zadnji-kraci.png",
+    "logo_img": "",
     "has_nav": true
   },
   "footer": {
