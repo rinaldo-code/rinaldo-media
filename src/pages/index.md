@@ -84,7 +84,7 @@ sections:
     type: postsblock
   - component: ContactBlock
     section_id: contact
-    subtitle: An optional subtitle of the section
+    subtitle: Got a project? Want more info? We’d love to hear from you.
     title: Contact Us
     type: contactblock
 menus:
