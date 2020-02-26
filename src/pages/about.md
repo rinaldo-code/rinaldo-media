@@ -80,7 +80,7 @@ Our full-stack development team knows how to code intuitive, native applications
 
 ### How It Works
 
-To kick things off, we use a fast paces, user centric, and facilitated framework that defines and prioritizes user needs, creates user journeys, surfaces actionable insights, makes strategic recommendations and produces tangible results that will be deployed on the business website.
+To kick things off, we use a fast paced, user centric, and facilitated framework that defines and prioritizes user needs, creates user journeys, surfaces actionable insights, makes strategic recommendations and produces tangible results that will be deployed on the business website.
 
 This is an integral step in our overall process:
 
