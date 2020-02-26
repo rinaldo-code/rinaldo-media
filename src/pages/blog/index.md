@@ -3,7 +3,7 @@ title: Blog
 menus:
   main:
     title: Blog
-    weight: 3
+    weight: 4
 template: blog
 ---
 
