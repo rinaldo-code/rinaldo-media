@@ -21,9 +21,6 @@ sections:
     section_id: services
     serviceslist:
       - content: >-
-          ![](/images/5c7ea63f7cef325eaa33b15b_ap-strategy-icon.svg)
-
-
           We ask the right questions to understand the business you're building
           and the people you’re building it for.
         title: Strategy
@@ -37,6 +34,32 @@ sections:
         title: Development
     subtitle: We’re a creative partner offering only what we do best.
     title: What We Do
+    type: servicesblock
+  - component: ServicesBlock
+    section_id: howwework
+    serviceslist:
+      - content: >-
+
+          We’re not in the business of counting hours and arbitrary
+          deliverables. Our model allows for flexibility and predictable
+          pricing, giving you the ability to shift priorities along with
+          internal timelines.
+        title: Collaborative
+      - content: >-
+          We work in tandem with your team, allowing us to deliver designs and
+          provide feedback in real time as products are developed.
+        title: Agile
+      - content: >-
+
+          Throughout our process, we rapidly test our designs with real people
+          to gather insights and iterate ahead of development.
+        title: Results-oriented
+      - content: >-
+          We’re a versatile team of specialized digital product designers with
+          experience across various platforms and industries.
+        title: Interdisciplinary
+    subtitle: We operate as an extension of your team for a seamless approach.
+    title: How We Work
     type: servicesblock
   - component: TestimonialsBlock
     section_id: testimonials
