@@ -20,7 +20,12 @@ sections:
   - component: ServicesBlock
     section_id: services
     serviceslist:
-      - content: "We ask the right questions to understand the business you're building and the people you’re building it for.\r\n"
+      - content: >-
+          ![](/images/5c7ea63f7cef325eaa33b15b_ap-strategy-icon.svg)
+
+
+          We ask the right questions to understand the business you're building
+          and the people you’re building it for.
         title: Strategy
       - content: >-
           Web design can make or break a business. We design thoughtful
