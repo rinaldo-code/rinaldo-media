@@ -1,13 +1,13 @@
 ---
-title: Home
+title: Rinaldo MEDIA
 sections:
   - component: HeroBlock
     content: We design & build websites that convert visitors into paying customers
     section_id: hero
     title: Creating better human experiences through exceptional web design
     type: heroblock
-  - view_all_text: View All
-    num_projects_displayed: 6
+  - view_all_text: ''
+    num_projects_displayed: 3
     section_id: latest-projects
     view_all_url: portfolio/index.html
     subtitle: ''
