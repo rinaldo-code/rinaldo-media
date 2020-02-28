@@ -1,7 +1,7 @@
 ---
 title: EGFS
 subtitle: ''
-date: 2019-09-01T22:00:00.000Z
+date: 2019-07-15T22:00:00.000Z
 thumb_img_path: /images/egfs-main-image.png
 content_img_path: /images/egfs-main-image.png
 template: project
