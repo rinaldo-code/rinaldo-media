@@ -67,7 +67,7 @@ sections:
     section_id: testimonials
     subtitle: Read what our clients have to say about us.
     testimonialslist:
-      - author: Alex Berman
+      - author: 'Alex Berman, Experiment 27'
         avatar: /images/0.jpg
         content: >-
           Rinaldo MEDIA contrasts the notion that web design is a risky venture
