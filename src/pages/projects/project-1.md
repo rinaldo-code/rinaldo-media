@@ -14,4 +14,4 @@ We designed their website while considering their business goals and built a res
 
 We also added a simple option where by a simple button they can mark acquired companies in their portfolio.
 
-And as for the octopus you see in the main section - polpo means octopus in Italian. The founder of Polpo Group is of Italian descent so he decided to name the group Polpo instead of Octopus. Polpo group sees all the tentacles of an octopus as all the different businesses and assets under Polpo Group that combine to form a strong head at the top.
+And as for the octopus you see in the main section - polpo means octopus in Italian. The founder of Polpo Group is of Italian descent so he decided to name the group Polpo instead of Octopus. Polpo Group sees all the tentacles of an octopus as all the different businesses and assets that combine to form a strong head at the top.
