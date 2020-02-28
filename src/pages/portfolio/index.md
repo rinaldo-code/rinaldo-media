@@ -1,7 +1,7 @@
 ---
 title: Portfolio
 subtitle: 'Check out our previous work. '
-layout_style: mosaic
+layout_style: tiles
 menus:
   main:
     title: Portfolio
