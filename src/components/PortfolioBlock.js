@@ -32,7 +32,7 @@ export default class PortfolioBlock extends React.Component {
                         </div>
                         }
                         //<span className="view-all">{_.get(this.props, 'section.view_all_text') || 'View All'}</span>
-                      */</Link>
+                      </Link>*/
                        : 
                       <Link to={safePrefix(_.get(post, 'url'))} className="post-link">
                         {_.get(post, 'frontmatter.thumb_img_path') && 
