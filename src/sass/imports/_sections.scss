@@ -141,12 +141,12 @@
   .post-link {
     &:hover,
     &:focus {
-      .view-all {
+      /*.view-all {
         &:before,
         &:after {
           height: 50%;
         }
-      }
+      }*/
     }
   }
 }
