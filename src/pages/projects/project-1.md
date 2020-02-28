@@ -1,7 +1,7 @@
 ---
 title: Polpo Group
 subtitle: ''
-date: 2019-07-14T22:00:00.000Z
+date: 2019-09-02T22:00:00.000Z
 thumb_img_path: /images/polpo-group-main-image.png
 content_img_path: /images/polpo-group-main-image.png
 template: project
