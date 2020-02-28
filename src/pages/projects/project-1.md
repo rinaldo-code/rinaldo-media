@@ -1,16 +1,17 @@
 ---
 title: Polpo Group
 subtitle: ''
-date: 2020-01-31T23:00:00.000Z
-thumb_img_path: /images/untitled-design.png
-content_img_path: /images/untitled-design.png
+date: 2019-07-14T22:00:00.000Z
+thumb_img_path: /images/polpo-group-main-image.png
+content_img_path: /images/polpo-group-main-image.png
 template: project
 ---
+Polpo Group was created as a holding company for cash-flow generating businesses & investments. Their goal was increasing brand awareness and attracting potential investments in the startup ecosystem.
 
-Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
+We designed their website while considering their business goals and built a responsive website on Webflow. Then we carefully integrated Webflow CMS so they are able to update their team members, their bios and companies in their portfolio easily.
 
->"A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away." -Antoine de Saint-Exupery
+![](/images/polpo-group-secondary-image.png)
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia ac eu interdum placerat placerat arcu commodo lobortis adipiscing semper ornare pellentesque.
+We also added a simple option where by a simple button they can mark acquired companies in their portfolio.
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet blandit adipiscing arcu ante.
+And as for the octopus you see in the main section - polpo means octopus in Italian. The founder of Polpo Group is of Italian descent so he decided to name the group Polpo instead of Octopus. Polpo group sees all the tentacles of an octopus as all the different businesses and assets under Polpo Group that combine to form a strong head at the top.
