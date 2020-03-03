@@ -2,15 +2,15 @@
 title: Polpo Group
 subtitle: ''
 date: 2019-09-02T22:00:00.000Z
-thumb_img_path: /images/polpo-group-main-image.png
-content_img_path: /images/polpo-group-main-image.png
+thumb_img_path: /images/polpo-group-main-image-min.png
+content_img_path: /images/polpo-group-main-image-min.png
 template: project
 ---
 Polpo Group was created as a holding company for cash-flow generating businesses & investments. Their goal was increasing brand awareness and attracting potential investments in the startup ecosystem.
 
 We designed their website while considering their business goals and built a responsive website on Webflow. Then we carefully integrated Webflow CMS so they are able to update their team members, their bios and companies in their portfolio easily.
 
-![](/images/polpo-group-secondary-image.png)
+![](/images/polpo-group-secondary-image-min.png)
 
 We also added a simple option where by a simple button they can mark acquired companies in their portfolio.
 
