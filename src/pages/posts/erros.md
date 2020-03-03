@@ -17,7 +17,7 @@ Quoting Jakob Nielsen on error prevention:
 
 # **What is error prevention?**
 
-The[ISO 25000](https://us1.free-proxy.com/browse.php?u=fQI4cXJTjMfWWDjp93p%2BeJZiJuCbTI8NG3Z0DcqguBeDSGTgcqXrRnUtACrskBItCXPvCD2%2B%2Fz4UOBk%2BQnn65esMBt6w%2B4QgtLhC&b=3)describes ‘error prevention’ as*a**degree to which a product or system can be used by specified users to achieve specified goals with effectiveness, efficiency, and satisfaction in a specified context of use***. In other words, designing in a way that it actually makes it harder for the user to commit errors.
+The ISO 25000 describes ‘error prevention’ as a **degree to which a product or system can be used by specified users to achieve specified goals with effectiveness, efficiency, and satisfaction in a specified context of use**. In other words, designing in a way that it actually makes it harder for the user to commit errors.
 
 The purpose of the ISO Standards (International Organization for Standardization) is to make services and products better so all kinds of companies and organizations can be more efficient. This organization develops and publishes international standards designed for specific industries, like the food industry, or designed to help improve the environment.
 
@@ -25,11 +25,7 @@ The purpose of the ISO Standards (International Organization for Standardization
 
 This concept of error prevention is one of Jakob Nielsen heuristics. Besides being one of the major concepts to have good usability in a design, it also ensures more productivity since users are able to complete a task as fast and efficiently as possible without committing any error — making your product less error-prone.
 
-Heuristic Evaluation: an overview and how to run one
-
-Heuristics can be described as user experience (UX) best practices. In other words, the gold standard of UX — the good…
-
-uxdesign.cc
+Heuristics can be described as user experience (UX) best practices. In other words, the gold standard of UX.
 
 ## **Provide good defaults**
 
@@ -39,9 +35,7 @@ Take for example, how the Medium app on iOS suggests specific apps and people wh
 
 Or how the Mail app suggests a predicted folder when the user wants to organize the inbox. These suggestions can be ignored and the user still can select other options if they want to.
 
-![iOS suggests specific apps for sharing and a predicted folder to organize the email inbox](https://us1.free-proxy.com/browse.php?u=fQI4cXZJkZrNBW29sGx8O9pkJauTVdlSRTZ0WY7flxyFDDqnKfyrUjBuWCq6lzItLATxVSL9qjRVNBsx&b=3)
-
-![iOS suggests specific apps for sharing and a predicted folder to organize the email inbox](<>)![iOS suggests specific apps for sharing and a predicted folder to organize the email inbox](https://us1.free-proxy.com/browse.php?u=fQI4cXZJkZrNBW29sGx8O9pkJauTVdlSQT5rWIu%2B%2BzSqHT%2B8LuewAnZgV3Oxn1IvKDjQIyW9vWVD&b=3)
+![](https://us1.free-proxy.com/browse.php?u=fQI4cXZJkZrNBW29sGx8O9pkJauTVdlSQT5rWIu%2B%2BzSqHT%2B8LuewAnZgV3Oxn1IvKDjQIyW9vWVD&b=3)
 
 iOS suggests specific apps for sharing and a predicted folder to organize the email inbox
 
@@ -49,9 +43,7 @@ iOS suggests specific apps for sharing and a predicted folder to organize the em
 
 People make mistakes. It is nothing but human. Having an ‘Undo’ option not only provides confidence for the users while using your product but also has a huge impact on usability.
 
-![Gmail provides an ‘Undo’ option after sending an email](https://us1.free-proxy.com/browse.php?u=fQI4cXZJkZrNBW29sGx8O9pkJauTVdlSRTZ0WY7ngByPXT6Rc%2B2cAGA%2FIHW%2BlhYqQjPxVSL9qjRVNBsx&b=3)
-
-![Gmail provides an ‘Undo’ option after sending an email](<>)![Gmail provides an ‘Undo’ option after sending an email](https://us1.free-proxy.com/browse.php?u=fQI4cXZJkZrNBW29sGx8O9pkJauTVdlSSjVrR5WluTWUBm69BqSjLG0%2FBwW5xwc%2FGWTpDHzjo2w%3D&b=3)
+![](https://us1.free-proxy.com/browse.php?u=fQI4cXZJkZrNBW29sGx8O9pkJauTVdlSSjVrR5WluTWUBm69BqSjLG0%2FBwW5xwc%2FGWTpDHzjo2w%3D&b=3)
 
 Gmail provides an ‘Undo’ option after sending an email
 
@@ -61,9 +53,7 @@ Gmail does this perfectly. Whether you’re sending an email or deleting one by 
 
 How many times do you type a password and submit the form only to find out that the passwords needs to be bigger, with alphanumeric characters and maybe an uppercase character as well.
 
-![Image source: Unknown](https://us1.free-proxy.com/browse.php?u=fQI4cXZJkZrNBW29sGx8O9pkJauTVdlSRTZ0WY65gCqeEhCldK2MElQBEwa8kAZxHDHXVSL9qjRVNBsx&b=3)
-
-![Image source: Unknown](<>)![Image source: Unknown](https://us1.free-proxy.com/browse.php?u=fQI4cXZJkZrNBW29sGx8O9pkJauTVdlSQTJvXIu%2B%2B1K9KySiBOXtU1EgMxz6s1QoHGTgFgO9vWVD&b=3)
+![](https://us1.free-proxy.com/browse.php?u=fQI4cXZJkZrNBW29sGx8O9pkJauTVdlSQTJvXIu%2B%2B1K9KySiBOXtU1EgMxz6s1QoHGTgFgO9vWVD&b=3)
 
 ## **Make important tasks bulletproof**
 
@@ -71,15 +61,11 @@ If you provide a product or service which has sensitive and/or important tasks y
 
 For instance, Mailchimp does not want users to delete or send an email by mistake. This email marketing service safeguards these tasks very well:
 
-![Great error prevention by asking users to type DELETE to confirm their actions](https://us1.free-proxy.com/browse.php?u=fQI4cXZJkZrNBW29sGx8O9pkJauTVdlSRTZ0WY64pw3VJz%2B0BdaWEjRsKX3hlxJ7I2zhVSL9qjRVNBsx&b=3)
-
 ![Great error prevention by asking users to type DELETE to confirm their actions](<>)![Great error prevention by asking users to type DELETE to confirm their actions](https://us1.free-proxy.com/browse.php?u=fQI4cXZJkZrNBW29sGx8O9pkJauTVdlSQTZvUIu%2B%2B1OaDG%2BXK%2FScKEsgU3HAyAkvCG7fSzW9vWVD&b=3)
 
 Great error prevention by asking users to type DELETE to confirm their actions
 
 When a user wants to delete an email, it opens a second layer of confirmation to both prevent destructive actions and guide users to confirm that’s the action they really want to perform. In this case, unless the users type DELETE, they will not be able to delete an email.
-
-![Mailchimps’ sweaty monkey finger demonstrates error prevention when a user wants to send emails](https://us1.free-proxy.com/browse.php?u=fQI4cXZJkZrNBW29sGx8O9pkJauYRsQYCWN0BcX3%2FlLcSmf%2FA8SDDW8SOHzqnRI7TwOwLQj7qG9IfgdmR3ao%2FaIDBQ%3D%3D&b=3)
 
 ![Mailchimps’ sweaty monkey finger demonstrates error prevention when a user wants to send emails](<>)![Mailchimps’ sweaty monkey finger demonstrates error prevention when a user wants to send emails](https://us1.free-proxy.com/browse.php?u=fQI4cXZJkZrNBW29sGx8O9pkJauTVdlSRDJrR5WlkDW0Az%2BeG625B3QrVBu%2BpzohHzjqDHz0pG0%3D&b=3)
 
@@ -93,19 +79,13 @@ One of the biggest misconceptions designers and teams make is that they think us
 
 Of course, you can put all your cards on power users but they’re usually a smaller percentage of your users.
 
-![Google autocomplete](https://us1.free-proxy.com/browse.php?u=fQI4cXZJkZrNBW29sGx8O9pkJauTVdlSRTZ0WY78pw60UyKXANexMkIbLwvXmw4cPG3XVSL9qjRVNBsx&b=3)
-
-![Google autocomplete](<>)![Google autocomplete](https://us1.free-proxy.com/browse.php?u=fQI4cXZJkZrNBW29sGx8O9pkJauTVdlSQTZrWIu%2B%2BxeaDw7jNteZKWwAJQbGvj8jFAnASgO9vWVD&b=3)
-
-Google autocomplete
+![](https://us1.free-proxy.com/browse.php?u=fQI4cXZJkZrNBW29sGx8O9pkJauTVdlSQTZrWIu%2B%2BxeaDw7jNteZKWwAJQbGvj8jFAnASgO9vWVD&b=3)
 
 The king of contextual word suggestions, while the user is typing, is, of course, Google but you can also find this kind of suggestion in many e-commerce websites.
 
 Take another example. Uber helps its users by giving contextual and very subtle helpers on specific inputs like where to find the 3–4 digit CVV number and the expiration date of their credit card.
 
-![Uber contextual help for specific inputs](https://us1.free-proxy.com/browse.php?u=fQI4cXZJkZrNBW29sGx8O9pkJauTVdlSRTZ0WY7dkwucFQ74ANyRPjQPJ3bdoQh%2BETXXVSL9qjRVNBsx&b=3)
-
-![Uber contextual help for specific inputs](<>)![Uber contextual help for specific inputs](https://us1.free-proxy.com/browse.php?u=fQI4cXZJkZrNBW29sGx8O9pkJauTVdlSQT5rWIu%2B%2BzauCialGriZIkwMUxLOwzUZEmvtEgO9vWVD&b=3)
+![](https://us1.free-proxy.com/browse.php?u=fQI4cXZJkZrNBW29sGx8O9pkJauTVdlSQT5rWIu%2B%2BzauCialGriZIkwMUxLOwzUZEmvtEgO9vWVD&b=3)
 
 A key takeaway is that people will always make mistakes. So if you want to make your product real user-friendly you need to consider:
 
