@@ -61,13 +61,13 @@ If you provide a product or service which has sensitive and/or important tasks y
 
 For instance, Mailchimp does not want users to delete or send an email by mistake. This email marketing service safeguards these tasks very well:
 
-![Great error prevention by asking users to type DELETE to confirm their actions](<>)![Great error prevention by asking users to type DELETE to confirm their actions](https://us1.free-proxy.com/browse.php?u=fQI4cXZJkZrNBW29sGx8O9pkJauTVdlSQTZvUIu%2B%2B1OaDG%2BXK%2FScKEsgU3HAyAkvCG7fSzW9vWVD&b=3)
+![](https://us1.free-proxy.com/browse.php?u=fQI4cXZJkZrNBW29sGx8O9pkJauTVdlSQTZvUIu%2B%2B1OaDG%2BXK%2FScKEsgU3HAyAkvCG7fSzW9vWVD&b=3)
 
 Great error prevention by asking users to type DELETE to confirm their actions
 
 When a user wants to delete an email, it opens a second layer of confirmation to both prevent destructive actions and guide users to confirm that’s the action they really want to perform. In this case, unless the users type DELETE, they will not be able to delete an email.
 
-![Mailchimps’ sweaty monkey finger demonstrates error prevention when a user wants to send emails](<>)![Mailchimps’ sweaty monkey finger demonstrates error prevention when a user wants to send emails](https://us1.free-proxy.com/browse.php?u=fQI4cXZJkZrNBW29sGx8O9pkJauTVdlSRDJrR5WlkDW0Az%2BeG625B3QrVBu%2BpzohHzjqDHz0pG0%3D&b=3)
+![](https://us1.free-proxy.com/browse.php?u=fQI4cXZJkZrNBW29sGx8O9pkJauTVdlSRDJrR5WlkDW0Az%2BeG625B3QrVBu%2BpzohHzjqDHz0pG0%3D&b=3)
 
 Mailchimps’ sweaty monkey finger demonstrates error prevention when a user wants to send emails
 
@@ -95,4 +95,4 @@ A key takeaway is that people will always make mistakes. So if you want to make 
 
 Sure, a good product should inform its users about an error, but the best products are those which prevent users from making a mistake in the first place. You can say your product has a good user experience if you help users with error prevention.
 
-If you want to collaborate, contact us on [rinaldo.media/contact](rinaldo.media/contact)
+If you want to collaborate, contact us on [rinaldo.media/contact](https://rinaldo.media/contact/)
