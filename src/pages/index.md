@@ -81,7 +81,7 @@ sections:
     component: PostsBlock
     num_posts_displayed: 2
     section_id: latest-posts
-    subtitle: An optional subtitle of the section
+    subtitle: Read our latest posts.
     title: Latest from the Blog
     type: postsblock
   - component: ContactBlock
