@@ -35,7 +35,7 @@ Take for example, how the Medium app on iOS suggests specific apps and people wh
 
 Or how the Mail app suggests a predicted folder when the user wants to organize the inbox. These suggestions can be ignored and the user still can select other options if they want to.
 
-![](https://us1.free-proxy.com/browse.php?u=fQI4cXZJkZrNBW29sGx8O9pkJauTVdlSQT5rWIu%2B%2BzSqHT%2B8LuewAnZgV3Oxn1IvKDjQIyW9vWVD&b=3)
+![](/images/1_pfxiilrkip9679n2frdvxw.png)
 
 iOS suggests specific apps for sharing and a predicted folder to organize the email inbox
 
@@ -43,7 +43,7 @@ iOS suggests specific apps for sharing and a predicted folder to organize the em
 
 People make mistakes. It is nothing but human. Having an ‘Undo’ option not only provides confidence for the users while using your product but also has a huge impact on usability.
 
-![](https://us1.free-proxy.com/browse.php?u=fQI4cXZJkZrNBW29sGx8O9pkJauTVdlSSjVrR5WluTWUBm69BqSjLG0%2FBwW5xwc%2FGWTpDHzjo2w%3D&b=3)
+![](/images/1_hqxc8hd1xgkffa16gvc8ow.png)
 
 Gmail provides an ‘Undo’ option after sending an email
 
@@ -53,7 +53,7 @@ Gmail does this perfectly. Whether you’re sending an email or deleting one by 
 
 How many times do you type a password and submit the form only to find out that the passwords needs to be bigger, with alphanumeric characters and maybe an uppercase character as well.
 
-![](https://us1.free-proxy.com/browse.php?u=fQI4cXZJkZrNBW29sGx8O9pkJauTVdlSQTJvXIu%2B%2B1K9KySiBOXtU1EgMxz6s1QoHGTgFgO9vWVD&b=3)
+![](/images/1_6qnrwfp68wyrxrb4af8fmq.png)
 
 ## **Make important tasks bulletproof**
 
@@ -61,13 +61,13 @@ If you provide a product or service which has sensitive and/or important tasks y
 
 For instance, Mailchimp does not want users to delete or send an email by mistake. This email marketing service safeguards these tasks very well:
 
-![](https://us1.free-proxy.com/browse.php?u=fQI4cXZJkZrNBW29sGx8O9pkJauTVdlSQTZvUIu%2B%2B1OaDG%2BXK%2FScKEsgU3HAyAkvCG7fSzW9vWVD&b=3)
+![](/images/1_7vi9biagcmy25h9ifr2y0g.png)
 
 Great error prevention by asking users to type DELETE to confirm their actions
 
 When a user wants to delete an email, it opens a second layer of confirmation to both prevent destructive actions and guide users to confirm that’s the action they really want to perform. In this case, unless the users type DELETE, they will not be able to delete an email.
 
-![](https://us1.free-proxy.com/browse.php?u=fQI4cXZJkZrNBW29sGx8O9pkJauTVdlSRDJrR5WlkDW0Az%2BeG625B3QrVBu%2BpzohHzjqDHz0pG0%3D&b=3)
+![](/images/1_uhu8787.png)
 
 Mailchimps’ sweaty monkey finger demonstrates error prevention when a user wants to send emails
 
@@ -79,13 +79,13 @@ One of the biggest misconceptions designers and teams make is that they think us
 
 Of course, you can put all your cards on power users but they’re usually a smaller percentage of your users.
 
-![](https://us1.free-proxy.com/browse.php?u=fQI4cXZJkZrNBW29sGx8O9pkJauTVdlSQTZrWIu%2B%2BxeaDw7jNteZKWwAJQbGvj8jFAnASgO9vWVD&b=3)
+![](/images/1_svjx6tbbbjydbno_jnuf1q.png)
 
 The king of contextual word suggestions, while the user is typing, is, of course, Google but you can also find this kind of suggestion in many e-commerce websites.
 
 Take another example. Uber helps its users by giving contextual and very subtle helpers on specific inputs like where to find the 3–4 digit CVV number and the expiration date of their credit card.
 
-![](https://us1.free-proxy.com/browse.php?u=fQI4cXZJkZrNBW29sGx8O9pkJauTVdlSQT5rWIu%2B%2BzauCialGriZIkwMUxLOwzUZEmvtEgO9vWVD&b=3)
+![](/images/1_rboppx-biju2vf2uph7kiq.png)
 
 A key takeaway is that people will always make mistakes. So if you want to make your product real user-friendly you need to consider:
 
