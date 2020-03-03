@@ -1,55 +1,118 @@
 ---
-title: erros
+title: How To Prevent User’s Errors To Have Good Usability
 subtitle: >-
-  Offering visual examples of how certain UX Laws can help you to create a
-  better user experience.
-date: 2020-03-03T16:08:24.004Z
-thumb_img_path: images/6.jpg
-content_img_path: images/6.jpg
+  If you ever accidentally clicked the wrong button when trying to perform a
+  specific task? Don’t worry, it is not your fault. It’s a design error.
+date: 2020-02-03T16:08:24.004Z
+thumb_img_path: /images/2.jpg
+content_img_path: /images/2_thumb.jpg
 excerpt: ''
 template: post
 ---
-The serial position effect is a term coined by Herman Ebbinghaus, a German psychologist, and pioneer of memory research. It describes how the position of an item within a sequence has an effect on the user’s recall accuracy. There are two main concepts involved in this theory;
+Error prevention is one of the 10 usability heuristics by Jakob Nielsen.
 
-1. **The Primacy Effect**: Items that are presented at the beginning of a list are recalled with greater accuracy than items in the middle of a list.
-2. **The Recency Effec**t: Items that appear at the end of a list are also more likely to elicit better recall than items presented in the middle of a list.
+Quoting Jakob Nielsen on error prevention:
 
-It is unwise to present long lists of information as it places significant strain on the user’s memory system, especially short-term memory, where only 3 to 5 items can be maintained at one time. Our ability to recall previously items is also severely impacted by events between initial processing and later recall.
+> *“Even better than good error messages is a careful design which prevents a problem from occurring in the first place. Either eliminate error-prone conditions or check for them and present users with a confirmation option before they commit to the action”.*
 
-As designers, we can use the effect of primacy and recency in our designs to improve the overall user experience. By understanding how to manipulate the order of information, you can reduce the strain on your user’s memory load. Below are some ways you can utilize the serial positioning effect in your user interface design;
+# **What is error prevention?**
 
-## Always display task-relevant information
+The[ISO 25000](https://us1.free-proxy.com/browse.php?u=fQI4cXJTjMfWWDjp93p%2BeJZiJuCbTI8NG3Z0DcqguBeDSGTgcqXrRnUtACrskBItCXPvCD2%2B%2Fz4UOBk%2BQnn65esMBt6w%2B4QgtLhC&b=3)describes ‘error prevention’ as*a**degree to which a product or system can be used by specified users to achieve specified goals with effectiveness, efficiency, and satisfaction in a specified context of use***. In other words, designing in a way that it actually makes it harder for the user to commit errors.
 
-In order to minimize the strain on your user’s memory load, it’s essential to maintain task-relevant information within the user interface. The information shown should be relevant to the current task in the user interface to minimize the load you put on your user’s cognitive capacity. This will allow them to be more efficient in their tasks, by removing the need to recall where each tool is located at.
+The purpose of the ISO Standards (International Organization for Standardization) is to make services and products better so all kinds of companies and organizations can be more efficient. This organization develops and publishes international standards designed for specific industries, like the food industry, or designed to help improve the environment.
 
-Most desktop apps such as Sketch, Photoshop, Microsoft Word, Keynote, and many more, all place their toolbar at the top in order to help the user work more efficiently and effectively.
+# **Ways to ensure error prevention**
 
-Sketch App places the toolbar at the top in order to help the user complete their task effectively.
+This concept of error prevention is one of Jakob Nielsen heuristics. Besides being one of the major concepts to have good usability in a design, it also ensures more productivity since users are able to complete a task as fast and efficiently as possible without committing any error — making your product less error-prone.
 
-## Manipulate the information order
+Heuristic Evaluation: an overview and how to run one
 
-According to the serial positioning effect, you can present important items at the beginning or at the end of a list to maximize recall. This depends on the amount of time required for the user to make a decision. If the decision is to be made at a later time, you can present your preferred item at the beginning of the list — in order to help the user remember it.
+Heuristics can be described as user experience (UX) best practices. In other words, the gold standard of UX — the good…
 
-On the contrary, if the user has to make a decision immediately, then it would be better to place the most important item last as people tend to favor the last candidate presented to us.
+uxdesign.cc
 
-![](<>)![](https://us6.free-proxy.com/browse.php?u=Qum4mLXwty00fH8SBLLBgOGXTCxTtSXp4JFvi1vzRgWwIUwsaWM6PpVrZLW1NzwPB0U3YE4Er8GI&b=3)
+## **Provide good defaults**
 
-An example would be Incensefalls where they placed the item name, price, and call-to-action button right at the top in order to increase the probability of users remembering it. The middle portion includes chunks of relatively less important information about the product while the last section highlights the important features and persuasive benefit of free shipping.
+Helping your users by providing contextual accelerators can help enhance usability.
 
-![](<>)![](https://us6.free-proxy.com/browse.php?u=Qum4mLXwty00fH8SBLLBgOGXTCxTtSXp4JFvi1vzRlu8DGZTM2s%2BB6Adec2QZU0OO3s0YHgEr8GI&b=3)
+Take for example, how the Medium app on iOS suggests specific apps and people when you select the sharing option.
 
-The same goes for Airbnb where they placed the most important information on the top and bottom of the listing page; the summary of listing, call-to-action, and availability of the place. They even hide most of the information in the middle section to prevent cognitive overload, allowing the user to focus on the information that matters most.
+Or how the Mail app suggests a predicted folder when the user wants to organize the inbox. These suggestions can be ignored and the user still can select other options if they want to.
 
-And below the availability is the review section which helps to end the user journey on a strong note — especially if there’re a lot of positive reviews. Since users usually take time to mull things over before making a purchasing decision, the last items will stand out more than the beginning or middle ones.
+![iOS suggests specific apps for sharing and a predicted folder to organize the email inbox](https://us1.free-proxy.com/browse.php?u=fQI4cXZJkZrNBW29sGx8O9pkJauTVdlSRTZ0WY7flxyFDDqnKfyrUjBuWCq6lzItLATxVSL9qjRVNBsx&b=3)
 
-> Good reviews = Positive lasting impressions
+![iOS suggests specific apps for sharing and a predicted folder to organize the email inbox](<>)![iOS suggests specific apps for sharing and a predicted folder to organize the email inbox](https://us1.free-proxy.com/browse.php?u=fQI4cXZJkZrNBW29sGx8O9pkJauTVdlSQT5rWIu%2B%2BzSqHT%2B8LuewAnZgV3Oxn1IvKDjQIyW9vWVD&b=3)
 
-## Lead with your deal clincher
+iOS suggests specific apps for sharing and a predicted folder to organize the email inbox
 
-Promotions and deals are necessary and common for most e-commerce sites. They are essential marketing tactics that help to increase conversion so it’s important to place them at the very top of the leading page. This will allow the user to better remember that there’s such a promotion — even after leaving the site.
+## **Give the user a fallback**
 
-![](https://us6.free-proxy.com/browse.php?u=Qum4mLXwty00fH8SBLLBgOGXTCxTtSXp4JFvi1vzRh73LBM2b0saA6IJZMO0ZDcpLXpHaF4Er8GI&b=3)
+People make mistakes. It is nothing but human. Having an ‘Undo’ option not only provides confidence for the users while using your product but also has a huge impact on usability.
 
-ASOS always lead with their current sales promotion which captures the user’s attention.
+![Gmail provides an ‘Undo’ option after sending an email](https://us1.free-proxy.com/browse.php?u=fQI4cXZJkZrNBW29sGx8O9pkJauTVdlSRTZ0WY7ngByPXT6Rc%2B2cAGA%2FIHW%2BlhYqQjPxVSL9qjRVNBsx&b=3)
 
-If you want to collaborate, talk about UI/UX design, or just want to chat, you can connect with us at [rinaldo.media/contact](rinaldo.media/contact)
+![Gmail provides an ‘Undo’ option after sending an email](<>)![Gmail provides an ‘Undo’ option after sending an email](https://us1.free-proxy.com/browse.php?u=fQI4cXZJkZrNBW29sGx8O9pkJauTVdlSSjVrR5WluTWUBm69BqSjLG0%2FBwW5xwc%2FGWTpDHzjo2w%3D&b=3)
+
+Gmail provides an ‘Undo’ option after sending an email
+
+Gmail does this perfectly. Whether you’re sending an email or deleting one by mistake, Gmail gives you the opportunity to recover from a mistake.
+
+## **Show instructions beforehand**
+
+How many times do you type a password and submit the form only to find out that the passwords needs to be bigger, with alphanumeric characters and maybe an uppercase character as well.
+
+![Image source: Unknown](https://us1.free-proxy.com/browse.php?u=fQI4cXZJkZrNBW29sGx8O9pkJauTVdlSRTZ0WY65gCqeEhCldK2MElQBEwa8kAZxHDHXVSL9qjRVNBsx&b=3)
+
+![Image source: Unknown](<>)![Image source: Unknown](https://us1.free-proxy.com/browse.php?u=fQI4cXZJkZrNBW29sGx8O9pkJauTVdlSQTJvXIu%2B%2B1K9KySiBOXtU1EgMxz6s1QoHGTgFgO9vWVD&b=3)
+
+## **Make important tasks bulletproof**
+
+If you provide a product or service which has sensitive and/or important tasks you need to be taken seriously by helping users not make mistakes.
+
+For instance, Mailchimp does not want users to delete or send an email by mistake. This email marketing service safeguards these tasks very well:
+
+![Great error prevention by asking users to type DELETE to confirm their actions](https://us1.free-proxy.com/browse.php?u=fQI4cXZJkZrNBW29sGx8O9pkJauTVdlSRTZ0WY64pw3VJz%2B0BdaWEjRsKX3hlxJ7I2zhVSL9qjRVNBsx&b=3)
+
+![Great error prevention by asking users to type DELETE to confirm their actions](<>)![Great error prevention by asking users to type DELETE to confirm their actions](https://us1.free-proxy.com/browse.php?u=fQI4cXZJkZrNBW29sGx8O9pkJauTVdlSQTZvUIu%2B%2B1OaDG%2BXK%2FScKEsgU3HAyAkvCG7fSzW9vWVD&b=3)
+
+Great error prevention by asking users to type DELETE to confirm their actions
+
+When a user wants to delete an email, it opens a second layer of confirmation to both prevent destructive actions and guide users to confirm that’s the action they really want to perform. In this case, unless the users type DELETE, they will not be able to delete an email.
+
+![Mailchimps’ sweaty monkey finger demonstrates error prevention when a user wants to send emails](https://us1.free-proxy.com/browse.php?u=fQI4cXZJkZrNBW29sGx8O9pkJauYRsQYCWN0BcX3%2FlLcSmf%2FA8SDDW8SOHzqnRI7TwOwLQj7qG9IfgdmR3ao%2FaIDBQ%3D%3D&b=3)
+
+![Mailchimps’ sweaty monkey finger demonstrates error prevention when a user wants to send emails](<>)![Mailchimps’ sweaty monkey finger demonstrates error prevention when a user wants to send emails](https://us1.free-proxy.com/browse.php?u=fQI4cXZJkZrNBW29sGx8O9pkJauTVdlSRDJrR5WlkDW0Az%2BeG625B3QrVBu%2BpzohHzjqDHz0pG0%3D&b=3)
+
+Mailchimps’ sweaty monkey finger demonstrates error prevention when a user wants to send emails
+
+And it follows the same strategy when users want to send out an email campaign. Before the email is released to the subscribers, it shows a pop-up that asks the user to confirm the action, making a user feel safe and creating an overall good user experience.
+
+## **Provide suggestions**
+
+One of the biggest misconceptions designers and teams make is that they think users know the product as much as them, otherwise, they’re just dumb users. That’s just not true and not inclusive nor accessible.
+
+Of course, you can put all your cards on power users but they’re usually a smaller percentage of your users.
+
+![Google autocomplete](https://us1.free-proxy.com/browse.php?u=fQI4cXZJkZrNBW29sGx8O9pkJauTVdlSRTZ0WY78pw60UyKXANexMkIbLwvXmw4cPG3XVSL9qjRVNBsx&b=3)
+
+![Google autocomplete](<>)![Google autocomplete](https://us1.free-proxy.com/browse.php?u=fQI4cXZJkZrNBW29sGx8O9pkJauTVdlSQTZrWIu%2B%2BxeaDw7jNteZKWwAJQbGvj8jFAnASgO9vWVD&b=3)
+
+Google autocomplete
+
+The king of contextual word suggestions, while the user is typing, is, of course, Google but you can also find this kind of suggestion in many e-commerce websites.
+
+Take another example. Uber helps its users by giving contextual and very subtle helpers on specific inputs like where to find the 3–4 digit CVV number and the expiration date of their credit card.
+
+![Uber contextual help for specific inputs](https://us1.free-proxy.com/browse.php?u=fQI4cXZJkZrNBW29sGx8O9pkJauTVdlSRTZ0WY7dkwucFQ74ANyRPjQPJ3bdoQh%2BETXXVSL9qjRVNBsx&b=3)
+
+![Uber contextual help for specific inputs](<>)![Uber contextual help for specific inputs](https://us1.free-proxy.com/browse.php?u=fQI4cXZJkZrNBW29sGx8O9pkJauTVdlSQT5rWIu%2B%2BzauCialGriZIkwMUxLOwzUZEmvtEgO9vWVD&b=3)
+
+A key takeaway is that people will always make mistakes. So if you want to make your product real user-friendly you need to consider:
+
+* Offer suggestions as users can be distracted from the task at hand or simply new to the process
+* Encourage double-checking and warn users before they perform sensitive and important actions
+* Give users a fallback
+
+Sure, a good product should inform its users about an error, but the best products are those which prevent users from making a mistake in the first place. You can say your product has a good user experience if you help users with error prevention.
+
+If you want to collaborate, contact us on [rinaldo.media/contact](rinaldo.media/contact)
