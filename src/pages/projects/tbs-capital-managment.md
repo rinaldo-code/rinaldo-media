@@ -1,5 +1,5 @@
 ---
-title: TBS Capital Managment
+title: TBS Capital
 date: 2019-08-20T12:13:38.429Z
 thumb_img_path: /images/tbs-primary.png
 content_img_path: /images/tbs-primary.png
