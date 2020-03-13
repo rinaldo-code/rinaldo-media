@@ -7,7 +7,7 @@ sections:
     title: Creating better human experiences through exceptional web design
     type: heroblock
   - view_all_text: View All
-    num_projects_displayed: 4
+    num_projects_displayed: 6
     section_id: latest-projects
     view_all_url: portfolio/index.html
     subtitle: ''
@@ -95,4 +95,3 @@ menus:
     weight: 1
 template: home
 ---
-
